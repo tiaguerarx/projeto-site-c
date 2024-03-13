@@ -1,2 +1,2 @@
-# projeto-site-c
-Site do meu código em C
+Projeto de site para meu código feito na linguagem C, para a disicplina "Linguagem de Programação 1".
+
